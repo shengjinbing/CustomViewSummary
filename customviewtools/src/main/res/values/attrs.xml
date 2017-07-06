@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PieGraphView">
+        <!--开始的角度 -->
+        <attr name="piestartAngle" format="integer"></attr>
+        <!-- 增大某扇形时，它超出的高度占大圆半径的比例-->
+        <attr name="growWidthFactor" format="float"></attr>
+        <!--圆环占大圆半径的比例 -->
+        <attr name="ringWidthFactor" format="float"></attr>
+        <!--增大扇形的两边间距 -->
+        <attr name="grownPieGap" format="float"></attr>
+    </declare-styleable>
+
+
+    <declare-styleable name="SlideSwitch">
+        <attr name="Slide_Switch_bg" format="string"></attr>
+    </declare-styleable>
+</resources>

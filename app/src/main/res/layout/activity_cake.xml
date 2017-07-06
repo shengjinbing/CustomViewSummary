@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/activity_cake"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="cn.lixiang.customviewsummary.activity.CakeActivity">
+    <cn.lixiang.customviewsummary.views.CakePicture
+        xmlns:cake="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/activity_cake_picture"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        cake:startAngle="0"
+        />
+</RelativeLayout>
