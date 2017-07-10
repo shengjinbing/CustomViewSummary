@@ -21,6 +21,10 @@
         </activity>
         <activity android:name=".activity.SlideSwitchActivity">
         </activity>
+        <activity android:name=".activity.TestActivity">
+        </activity>
+        <activity android:name=".activity.TrendChartActivity">
+        </activity>
     </application>
 
 </manifest>

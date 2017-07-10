@@ -23,8 +23,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
     <Button
-        android:onClick="cake_zhifubbtn"
-        android:text="仿支付宝饼图"
+        android:onClick="trendchart"
+        android:text="线性趋势图"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
     <Button

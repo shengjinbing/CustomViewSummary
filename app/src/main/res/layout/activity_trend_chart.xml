@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/activity_trend_chart"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wandoujia_bg"
+    tools:context="cn.lixiang.customviewsummary.activity.TrendChartActivity">
+    <cn.lixiang.customviewtools.views.MyViewLineChart
+        xmlns:chart="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/chart"
+        android:layout_marginLeft="26dp"
+        android:layout_marginRight="42dp"
+        android:layout_width="match_parent"
+        android:layout_height="300dp">
+    </cn.lixiang.customviewtools.views.MyViewLineChart>
+
+</RelativeLayout>

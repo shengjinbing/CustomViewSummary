@@ -15,4 +15,10 @@
     <declare-styleable name="SlideSwitch">
         <attr name="Slide_Switch_bg" format="string"></attr>
     </declare-styleable>
+
+
+    <declare-styleable name="MyViewLineChart">
+        <attr name="XtestSize" format="dimension"></attr>
+        <attr name="YtestSize" format="dimension"></attr>
+    </declare-styleable>
 </resources>
